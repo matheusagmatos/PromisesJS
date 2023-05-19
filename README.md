@@ -1,2 +1,2 @@
 # PromisesJS
-Repositório criado para estudos pessoais sobre Promises/Javascript
+Repositório criado para estudos pessoais sobre Promises/Javascript.
